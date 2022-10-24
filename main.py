@@ -10,8 +10,8 @@ def sigmoid(x):
 
 class Network:
     def __init__(self):
-        self.weights = 0
-        self.biases = 0
+        self.weights = 1
+        self.biases = 1
 
     def feed_forward(self, oldActuation):
         for w, b in self.weights, self.biases:
