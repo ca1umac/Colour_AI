@@ -1,5 +1,12 @@
 Samvit:
 hard fucking maths
+sounds fair
 
 Calum:
 create the dataset
+
+
+--------------------------------------
+1. Create/ get a dataset
+2. clean the dataset
+3. 
