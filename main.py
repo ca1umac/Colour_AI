@@ -28,6 +28,7 @@ class Network:
         return newActuation
 
     def back_propagation(self):
+        # output a vector with 778 rows of different changes to be made to the weights and biases
         pass
 
     def particular_cost(self):
