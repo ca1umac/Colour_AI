@@ -9,4 +9,13 @@ create the dataset
 --------------------------------------
 1. Create/ get a dataset
 2. clean the dataset
-3. 
+3. program the backpropagation
+4. split the dataset into training validation and test
+5. split training into mini batches
+6. apply forward and back propagation across all the training data
+7. rinse and repeat till its actually working well
+8. apply to the validation dataset and do some further tuning
+9. apply to the test dataset
+10. evaluate success of model
+11. consider improvements for future projects
+12. go out and get hammered to celebrate
